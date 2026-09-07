@@ -1,0 +1,4 @@
+"variables","N","r","p_value"
+"BIS-11:Cocaine_craving","63","0.176","0.168"
+"IGT-I:Cocaine_craving","62","0.149","0.247"
+"IGT-I: BIS-11","55","0.019","0.887"

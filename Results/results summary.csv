@@ -1,0 +1,8 @@
+"analysis","N","Stastistic","P_value","Effect"
+"BIS-11: CUD vs Control",112,"t = -5.604","<0.001","d=1.07"
+"IGT-I: CUD vs Control",119,"t= 0.170","0.865","d=0.03"
+"BIS-11 vs Cocaine craving",63,"r = 0.176","0.168","R^2= 0.031"
+"IGT-I vs Cocaine craving",62,"r= 0.149","0.247","R^2= 0.022"
+"IGT-I vs BIS-11",55,"r=0.019","0.887","R^2= 0.0003"
+"Multiple regression: BIS-11 +
+             IGT-I->craving",54,"F = 0.691","0.506","R^2 = 0.0264"
